@@ -5,7 +5,7 @@
     "database": "database_development",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "url": "postgres://buciykjp:oOeD3i...@rogue.db.elephantsql.com:5432/buciykjp",
+    "url": "postgres://buciykjp:oOeD3inj-PMzoSTEtOrZmiHxbTvN6buq@rogue.db.elephantsql.com:5432/buciykjp",
     "operatorsAliases": "0"
   },
   "test": {
